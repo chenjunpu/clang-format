@@ -1,11 +1,5 @@
-# clang-format
-.clang-format文件，Xcode自定义代码格式化样式文件。
+# 添加规则请查看：http://clang.llvm.org/docs/ClangFormatStyleOptions.html
 
-[ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)
-
-[XcodeClangFormat](https://github.com/mapbox/XcodeClangFormat)
-
-```
 # 基础格式
 BasedOnStyle: Google
 
@@ -68,4 +62,3 @@ MaxEmptyLinesToKeep: 1
 
 # 头文件是否按首字母排序
 SortIncludes: false
-```
